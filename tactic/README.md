@@ -1,4 +1,4 @@
-### Panduan Taktik
+# Panduan Taktik
 
 Taktik hanya bagus jika bisa dieksekusi
 
