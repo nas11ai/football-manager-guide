@@ -1,1 +1,3 @@
-# football-manager-guide
+# Football Manager Guide
+
+Language: Bahasa Indonesia
