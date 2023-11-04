@@ -1,3 +1,3 @@
 # Football Manager Guide
 
-Language: Bahasa Indonesia
+Supported Language: Bahasa Indonesia, English (In-development)
