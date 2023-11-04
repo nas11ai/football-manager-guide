@@ -25,7 +25,7 @@
 
 - Di `Scouting -> Players`, cari pemain manual dengan memperhatikan **scouting range** (biaya akan diambil dari biaya transfer) atau ketertarikan pemain untuk bergabung (`interested in -> pilih jenis ketertarikan`).
 - Gunakan tombol **New Search** untuk memfilter pemain sesuai keinginanmu.
-- Setelah menyusun filter, ubah tampilan ke **General Info** dan urutkan berdasarkan **World Reputation** untuk menampilkan pemain terbaik sesuai kriteria pencarianmu.
+- Setelah menyusun filter, ubah tampilan ke **General Info** dan urutkan berdasarkan **World Reputation** untuk menampilkan pemain terbaik sesuai kriteria pencarianmu `(wonderkid juga bisa dicari dengan cara seperti ini)`.
 - Keuntungan metode ini adalah kontrol penuh atas tipe dan jumlah pemain yang bisa di-scout.
 
 ### Cara 3: Menggunakan Recruitment Focus
